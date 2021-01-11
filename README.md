@@ -1,2 +1,2 @@
-# Sonar-Sensor-Sampling
+# Sonar-Sampling
 Results from sampling vehicles with an Ultasound HC-SR04 Sensor through statistical analysis. 
